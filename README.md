@@ -1,5 +1,5 @@
 # WPF File Explorer
-- Features
+### Features
 - Browser file
 - Rename
 - Create new Folder
